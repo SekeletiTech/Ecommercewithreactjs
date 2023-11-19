@@ -1,9 +1,9 @@
-const superQuality = () => {
+const SuperQuality = () => {
     return (
         <div>
-            
+
         </div>
     )
 }
 
-export default superQuality
+export default SuperQuality

@@ -1,9 +1,9 @@
-const specialOffer = () => {
+const SpecialOffer = () => {
     return (
         <div>
-            
+
         </div>
     )
 }
 
-export default specialOffer
+export default SpecialOffer
